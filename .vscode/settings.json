@@ -3,6 +3,7 @@
         "main"
     ],
     "files.associations": {
-        "DESAFIOAVENTUREIRO.C": "cpp"
+        "DESAFIOAVENTUREIRO.C": "cpp",
+        "DESAFIOSMESTRE.C": "cpp"
     }
 }
