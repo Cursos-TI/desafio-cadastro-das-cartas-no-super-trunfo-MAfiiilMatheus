@@ -1,9 +1,0 @@
-{
-    "githubPullRequests.ignoredPullRequestBranches": [
-        "main"
-    ],
-    "files.associations": {
-        "DESAFIOAVENTUREIRO.C": "cpp",
-        "DESAFIOSMESTRE.C": "cpp"
-    }
-}
